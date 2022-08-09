@@ -1,6 +1,6 @@
-# Desafios TypeScript Santader Full Stack - DIO - Concluífos
+# Desafios TypeScript Santander Full Stack - DIO - Concluídos
 
-Desafios TypeScript do Bootcamp Santader Full Stack - DIO
+Desafios TypeScript do Bootcamp Santander Full Stack - DIO
  
 # Desafios elaborados no Santander Bootcamp Fullstack Developer da DIO
  
